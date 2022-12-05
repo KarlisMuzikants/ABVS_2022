@@ -1,15 +1,6 @@
-# #
-# x = input("Ievadi skaitli: ")
-# y = input("Ievdai skaitli: ")
-# sum = int(x) + int(y)
-# print("Summa ir: ", sum)
-#
-# x = input("Ievadi skaitli: ")
-# y = input("Ievadi skaitli: ")
-# sum = int(x) * int(y)
-# print("The sum is: ", sum)
-#
-# x = input("Ievadi skaitli: ")
-# y = input("Ievadi skaitli: ")
-# sum = int(x) / int(y)
-# print("Summa ir: ", sum)
+# x = int(input("Ievadi skaitli"))
+# y = int(input("Ievadi skaitli"))
+# print(x + y)
+# print(x * y)
+# print(x / y)
+

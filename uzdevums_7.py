@@ -1,3 +1,3 @@
-# inputsuns = str(input('Ievadi tekstu'))
+# inputsuns = input('Ievadi tekstu')
 # print(len(inputsuns))
 
